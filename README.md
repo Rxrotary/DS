@@ -1,3 +1,3 @@
 # DS
-### Data Science projects by rxrotary /footfalcon
+### Data Science projects by rxrotary / footfalcon
 
